@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fox5352
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning python intermediate and plan
-On learning c++
+- I’m currently learning python
 - i will be starting small projects
 - Once I feel I've learnt more I'll try group projects
 
