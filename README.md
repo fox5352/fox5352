@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fox5352
 - 👀 I’m interested in programming and gaming
-- I’m currently learning python
+- I’m currently learning web develpoment, and some app develpoment with kolin
 - i will be starting small projects
 - Once I feel I've learnt more I'll try group projects
 
