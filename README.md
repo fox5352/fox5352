@@ -31,7 +31,15 @@ Skills:
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox5352)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fox5352)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox5352&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox5352&hide_progress=true&show_icons=true&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fox5352&show_icons=true&count_private=true)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fox5352&show_icons=true&theme=radical)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fox5352&show_icons=true&theme=radical&count_private=true)
+
+## My Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Algorithms&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Windows-mp3-player&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Speech_to_text_converter&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
