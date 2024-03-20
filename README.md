@@ -1,13 +1,18 @@
 # Hi there I’m christopher Vos
 
-----
+---
 
 I'm a student at Codespace Academy and I love learning software development,
 some of my hobbies are coding, gaming, and reading/learning though I'm new to web development I've been coding in Python for almost a year
 
-----
+---
 
 ## Some of my coding languages are:
+
+<code>
+  <img src="./images/peerlist-profile.png">
+</code>
+
 
 - My [linkedin](https://www.linkedin.com/in/christopher-vos-6469b7284)
 - My [Online cv](https://fox5352.github.io/online-cv/)
