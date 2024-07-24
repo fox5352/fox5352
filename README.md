@@ -38,5 +38,8 @@ Skills:
 
 ## My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Algorithms&show_icons=true&theme=radical)](https://github.com/fox5352/Algorithms) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Speech_to_text_converter&show_icons=true&theme=radical)](https://github.com/fox5352/Speech_to_text_converter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Windows-mp3-player&show_icons=true&theme=radical)](https://github.com/fox5352/Windows-mp3-player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=tic-tac-toe&show_icons=true&theme=radical)](https://github.com/fox5352/tic-tac-toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=YaYEETAlloc&show_icons=true&theme=radical)](https://github.com/fox5352/YaYeetAlloc)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Speech_to_text_converter&show_icons=true&theme=radical)](https://github.com/fox5352/Speech_to_text_converter)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Windows-mp3-player&show_icons=true&theme=radical)](https://github.com/fox5352/Windows-mp3-player) -->
