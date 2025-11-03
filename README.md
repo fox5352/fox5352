@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Christopher Vos
-#### I am a Student at Codespace acadmy
+#### I am a Graduate from Codespace acadmy
 
 <!-- TODO: create a banner for this
 ![I am a Student at Codespace acadmy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
