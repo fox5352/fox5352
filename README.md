@@ -1,12 +1,9 @@
-### Hi there 👋, my name is Christopher Vos
-#### I am a Graduate from Codespace acadmy
+**Hi there 👋**, my name is **Christopher Vos**.
+I’m a **graduate from CodeSpace Academy** and a **co-founder of an organization called FoxWareDen**, where we develop **website and software solutions**.
 
-<!-- TODO: create a banner for this
-![I am a Student at Codespace acadmy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+I **love software development** 🥰 — some of my hobbies include **coding**, **gaming** 🖥️, and **reading/learning** 🤓.
+Although I’m still **fairly new to web development** 🌐, I’ve been coding in **Python for almost a year**, and I’m currently completing my studies 📖 at **CodeSpace Academy**.
 
-I love software development 🥰,some of my hobbies are coding , gaming 🖥️, and reading/learning 🤓
-though I'm new to web development 🌐 I've been coding in Python for almost a year,
-and I’m currently working on finishing my studies 📖 at Codespace Academy
 
 ----
 ## here are my links:
@@ -39,8 +36,8 @@ Skills:
 
 ## My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=tic-tac-toe&show_icons=true&theme=radical)](https://github.com/fox5352/tic-tac-toe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=YaYEETAlloc&show_icons=true&theme=radical)](https://github.com/fox5352/YaYeetAlloc)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=tic-tac-toe&show_icons=true&theme=radical)](https://github.com/fox5352/tic-tac-toe)-->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=YaYEETAlloc&show_icons=true&theme=radical)](https://github.com/fox5352/YaYeetAlloc)-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Speech_to_text_converter&show_icons=true&theme=radical)](https://github.com/fox5352/Speech_to_text_converter)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fox5352&repo=Windows-mp3-player&show_icons=true&theme=radical)](https://github.com/fox5352/Windows-mp3-player) -->
