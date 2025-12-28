@@ -1,14 +1,16 @@
 **Hi there 👋**, my name is **Christopher Vos**.
 I’m a **graduate from CodeSpace Academy** and a **co-founder of an organization called FoxWareDen**, where we develop **website and software solutions**.
 
-I **love software development** 🥰 — some of my hobbies include **coding**, **gaming** 🖥️, and **reading/learning** 🤓.
-Although I’m still **fairly new to web development** 🌐, I’ve been coding in **Python for almost a year**, and I’m currently completing my studies 📖 at **CodeSpace Academy**.
-
+Im a Versatile Full-Stack Developer with extensive experience in architecting and scaling applications across Web, Desktop, and Android platforms. Proven track record in founding organization and leading end-to-end project lifecycles—from architectural planning and project management to deployment. Expert in modern JavaScript ecosystems and systems programming.
 
 ----
+<!--
 ## here are my links:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fox5352)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-vos-6469b7284/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fox5352)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fox5352.github.io/online-cv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:christophervos522@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fox5352) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-vos-6469b7284/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fox5352) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fox5352.github.io/online-cv/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:christophervos522@gmail.com)  -->
 
 ----
 
